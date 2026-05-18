@@ -35,6 +35,25 @@ namespace Estruturas
             txtUsuario.Clear();
             txtSenha.Clear();
             txtUsuario.Focus();
-        }        
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnWhile_Click(object sender, EventArgs e)
+        {
+            // Laço de repetição que testa a condição no início
+            int i = 0;
+            lsbMostra.Items.Clear();
+            lsbMostra.Items.Add("Tabuada do 5");
+            while ( i <= 10)
+            {
+                int a = 5;                
+                lsbMostra.Items.Add(a + "x" + i.ToString() + "= "+ a*i );
+                i++;
+            }
+        }
     }
 }

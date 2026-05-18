@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             pnlContainer = new Panel();
+            btnSair = new Button();
             pnlLogin = new Panel();
             btnLimpar = new Button();
             btnTestar = new Button();
@@ -54,15 +55,26 @@
             // pnlContainer
             // 
             pnlContainer.Anchor = AnchorStyles.None;
+            pnlContainer.Controls.Add(btnSair);
             pnlContainer.Controls.Add(pnlLogin);
             pnlContainer.Controls.Add(lsbMostra);
             pnlContainer.Controls.Add(lblRepeticao);
             pnlContainer.Controls.Add(pnlRepeticao);
             pnlContainer.Controls.Add(lblCondicional);
-            pnlContainer.Location = new Point(0, 27);
+            pnlContainer.Location = new Point(31, 27);
             pnlContainer.Name = "pnlContainer";
-            pnlContainer.Size = new Size(999, 498);
+            pnlContainer.Size = new Size(811, 498);
             pnlContainer.TabIndex = 0;
+            // 
+            // btnSair
+            // 
+            btnSair.Location = new Point(626, 21);
+            btnSair.Name = "btnSair";
+            btnSair.Size = new Size(103, 38);
+            btnSair.TabIndex = 11;
+            btnSair.Text = "Sair do sistema";
+            btnSair.UseVisualStyleBackColor = true;
+            btnSair.Click += btnSair_Click;
             // 
             // pnlLogin
             // 
@@ -73,7 +85,7 @@
             pnlLogin.Controls.Add(lblSenha);
             pnlLogin.Controls.Add(txtUsuario);
             pnlLogin.Controls.Add(lblUsuario);
-            pnlLogin.Location = new Point(126, 75);
+            pnlLogin.Location = new Point(72, 66);
             pnlLogin.Name = "pnlLogin";
             pnlLogin.Size = new Size(270, 139);
             pnlLogin.TabIndex = 10;
@@ -137,16 +149,16 @@
             // 
             lsbMostra.FormattingEnabled = true;
             lsbMostra.ItemHeight = 15;
-            lsbMostra.Location = new Point(439, 75);
+            lsbMostra.Location = new Point(373, 65);
             lsbMostra.Name = "lsbMostra";
-            lsbMostra.Size = new Size(434, 379);
+            lsbMostra.Size = new Size(356, 379);
             lsbMostra.TabIndex = 9;
             // 
             // lblRepeticao
             // 
             lblRepeticao.AutoSize = true;
             lblRepeticao.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            lblRepeticao.Location = new Point(126, 231);
+            lblRepeticao.Location = new Point(72, 222);
             lblRepeticao.Name = "lblRepeticao";
             lblRepeticao.Size = new Size(185, 21);
             lblRepeticao.TabIndex = 8;
@@ -161,7 +173,7 @@
             pnlRepeticao.Controls.Add(btnDoWhile);
             pnlRepeticao.Controls.Add(btnForEach);
             pnlRepeticao.Controls.Add(btnWhile);
-            pnlRepeticao.Location = new Point(126, 264);
+            pnlRepeticao.Location = new Point(72, 255);
             pnlRepeticao.Name = "pnlRepeticao";
             pnlRepeticao.Size = new Size(270, 189);
             pnlRepeticao.TabIndex = 7;
@@ -219,12 +231,13 @@
             btnWhile.TabIndex = 5;
             btnWhile.Text = "While";
             btnWhile.UseVisualStyleBackColor = true;
+            btnWhile.Click += btnWhile_Click;
             // 
             // lblCondicional
             // 
             lblCondicional.AutoSize = true;
             lblCondicional.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            lblCondicional.Location = new Point(126, 49);
+            lblCondicional.Location = new Point(72, 40);
             lblCondicional.Name = "lblCondicional";
             lblCondicional.Size = new Size(175, 21);
             lblCondicional.TabIndex = 6;
@@ -234,7 +247,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(999, 525);
+            ClientSize = new Size(889, 525);
             Controls.Add(pnlContainer);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "frmPrincipal";
@@ -269,5 +282,6 @@
         private Label lblSenha;
         private TextBox txtUsuario;
         private Label lblUsuario;
+        private Button btnSair;
     }
 }
