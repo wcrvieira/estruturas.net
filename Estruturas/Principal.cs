@@ -45,14 +45,41 @@ namespace Estruturas
         private void btnWhile_Click(object sender, EventArgs e)
         {
             // Laço de repetição que testa a condição no início
-            int i = 0;
+            int numero = 0;
             lsbMostra.Items.Clear();
-            lsbMostra.Items.Add("Tabuada do 5");
-            while ( i <= 10)
+
+            // Testa a condição no início
+            while (numero < 0)
             {
-                int a = 5;                
-                lsbMostra.Items.Add(a + "x" + i.ToString() + "= "+ a*i );
-                i++;
+                // Bloco de execução                
+                lsbMostra.Items.Add(numero.ToString());
+                numero++; // numero = numero + 1; ou numero +=1;
+            }
+        }
+
+        private void btnDoWhile_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+            lsbMostra.Items.Clear();
+            // Testa a condição no final
+            do
+            {
+                lsbMostra.Items.Add(x.ToString());
+                x++;
+            }
+            while (x < 0);
+        }
+
+        private void btnFor_Click(object sender, EventArgs e)
+        {
+            lsbMostra.Items.Clear();
+
+            // Tabuada do 5
+            int w = 5;
+
+            for(int a = 0; a <= 10; a++)
+            {
+                lsbMostra.Items.Add(w +" x " + a + " = "+ w*a);
             }
         }
     }

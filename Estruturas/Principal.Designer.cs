@@ -195,6 +195,7 @@
             btnFor.TabIndex = 9;
             btnFor.Text = "For";
             btnFor.UseVisualStyleBackColor = true;
+            btnFor.Click += btnFor_Click;
             // 
             // btnBreak
             // 
@@ -213,6 +214,7 @@
             btnDoWhile.TabIndex = 7;
             btnDoWhile.Text = "Do...While";
             btnDoWhile.UseVisualStyleBackColor = true;
+            btnDoWhile.Click += btnDoWhile_Click;
             // 
             // btnForEach
             // 

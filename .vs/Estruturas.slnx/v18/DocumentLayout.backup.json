@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\",
+  "WorkspaceRootPath": "C:\\Users\\Wagner\\estruturas.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\desktop\\estruturas.net\\estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\estruturas.net\\estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|solutionrelative:estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|C:\\Users\\Wagner\\Desktop\\estruturas.Net\\estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|C:\\Users\\Wagner\\estruturas.Net\\estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|solutionrelative:estruturas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\desktop\\estruturas.net\\estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|C:\\Users\\Wagner\\estruturas.Net\\estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|solutionrelative:estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\desktop\\estruturas.net\\estruturas\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\estruturas.net\\estruturas\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|solutionrelative:estruturas\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\desktop\\estruturas.net\\estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|c:\\users\\wagner\\estruturas.net\\estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6760A53B-87AF-7B8B-4410-837808F4AF84}|Estruturas\\Estruturas.csproj|solutionrelative:estruturas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Cadastro.cs",
               "RelativeDocumentMoniker": "Estruturas\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Cadastro.cs",
               "RelativeToolTip": "Estruturas\\Cadastro.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAlwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,37 +48,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Principal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs",
+              "Title": "Principal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.cs",
               "RelativeDocumentMoniker": "Estruturas\\Principal.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs [Projeto]",
-              "RelativeToolTip": "Estruturas\\Principal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.cs [Design]",
+              "RelativeToolTip": "Estruturas\\Principal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T11:44:45.042Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Principal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.Designer.cs",
               "RelativeDocumentMoniker": "Estruturas\\Principal.Designer.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.Designer.cs",
+              "ToolTip": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.Designer.cs",
               "RelativeToolTip": "Estruturas\\Principal.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T23:04:10.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T23:04:10.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.cs",
               "RelativeDocumentMoniker": "Estruturas\\Principal.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Principal.cs",
+              "ToolTip": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Principal.cs",
               "RelativeToolTip": "Estruturas\\Principal.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAywDEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T23:03:28.741Z",
               "EditorCaption": ""
@@ -87,13 +86,12 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cadastro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Cadastro.cs",
               "RelativeDocumentMoniker": "Estruturas\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\estruturas.Net\\Estruturas\\Cadastro.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Wagner\\estruturas.Net\\Estruturas\\Cadastro.cs [Projeto]",
               "RelativeToolTip": "Estruturas\\Cadastro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:50:00.379Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-05-18T11:50:00.379Z"
             }
           ]
         }
