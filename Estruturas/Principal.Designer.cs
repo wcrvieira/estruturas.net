@@ -186,6 +186,7 @@
             btnContinue.TabIndex = 10;
             btnContinue.Text = "Continue";
             btnContinue.UseVisualStyleBackColor = true;
+            btnContinue.Click += btnContinue_Click;
             // 
             // btnFor
             // 
@@ -205,6 +206,7 @@
             btnBreak.TabIndex = 8;
             btnBreak.Text = "Break";
             btnBreak.UseVisualStyleBackColor = true;
+            btnBreak.Click += btnBreak_Click;
             // 
             // btnDoWhile
             // 
@@ -224,6 +226,7 @@
             btnForEach.TabIndex = 6;
             btnForEach.Text = "ForEach";
             btnForEach.UseVisualStyleBackColor = true;
+            btnForEach.Click += btnForEach_Click;
             // 
             // btnWhile
             // 
